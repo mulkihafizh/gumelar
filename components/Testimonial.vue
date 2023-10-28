@@ -38,9 +38,7 @@
           </h3>
           <NuxtImg
             src="images/tes.jpeg"
-            width="150"
-            height="150"
-            class="rounded-full"
+            class="rounded-full w-[150px] h-[150px] object-cover"
           />
           <p class="font-bold text-xl">
             {{ showedData.name }}

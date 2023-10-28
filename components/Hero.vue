@@ -43,9 +43,7 @@
               data-aos="fade-right"
               data-aos-duration="500"
               src="/images/javatea.jpg"
-              width="230px"
-              height="230px"
-              class="rounded-3xl"
+              class="rounded-3xl w-[230px] h-[230px] object-cover"
             />
           </div>
           <div class="row-span-1 flex justify-center items-center">
@@ -53,9 +51,7 @@
               data-aos="fade-left"
               data-aos-duration="1500"
               src="/images/pie2.jpg"
-              width="230px"
-              height="230px"
-              class="rounded-3xl"
+              class="rounded-3xl w-[230px] h-[230px] object-cover"
             />
           </div>
         </div>
@@ -71,9 +67,7 @@
               data-aos="fade-down"
               data-aos-duration="1500"
               src="/images/pie3.jpg"
-              width="230px"
-              height="350px"
-              class="rounded-3xl"
+              class="rounded-3xl w-[230px] h-[350px] object-cover"
             />
           </div>
         </div>

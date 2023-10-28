@@ -6,7 +6,8 @@
     <Experience />
     <About />
     <Testimonial />
-    <Contact class="mx-[10%]" />
+    <Contact />
+    <Footer class="mx-[10%]" />
   </div>
 </template>
 

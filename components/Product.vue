@@ -1,12 +1,12 @@
 <template>
-  <section class="min-h-screen h-[120vh] py-24 flex flex-col">
+  <section class="min-h-[120vh] py-24 flex flex-col" id="product">
     <header class="grid lg:grid-cols-5">
       <div class="text font-bold col-span-2">
         <h5 class="md:text-lg text-[#452B1C]">OUR BEST PRODUCT</h5>
         <h3 class="md:text-3xl">Explore our best product</h3>
       </div>
       <div
-        class="col-span-3 grid md:grid-cols-2 grid-rows-1 py-5 justify-self-end gap-2"
+        class="col-span-3 grid grid-cols-2 grid-rows-1 py-5 justify-self-end gap-2"
       >
         <div class="left">
           <i
@@ -20,9 +20,7 @@
         </div>
       </div>
     </header>
-    <main class="grid grid-cols-3 h-full flex-grow gap-6">
-      <ProductCard />
-      <ProductCard />
+    <main class="grid md:grid-cols-3 h-full flex-grow gap-6">
       <ProductCard />
     </main>
   </section>

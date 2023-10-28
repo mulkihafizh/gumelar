@@ -1,6 +1,6 @@
 <template>
   <section
-    class="grid lg:grid-cols-5 grid-cols-1 min-h-screen items-center py-24"
+    class="grid lg:grid-cols-5 grid-cols-1 min-h-screen items-center sm:py-24"
     id="home"
   >
     <main
@@ -38,20 +38,22 @@
     <div class="lg:col-span-3 order-1 lg:order-2 flex justify-center">
       <div class="grid grid-cols-2 gap-5">
         <div class="col-span-1 grid grid-rows-2 gap-5 py-10">
-          <div class="row-span-1 flex justify-center items-center">
+          <div class="row-span-1 flex justify-center items-end sm:items-center">
             <NuxtImg
               data-aos="fade-right"
               data-aos-duration="500"
               src="/images/javatea.jpg"
-              class="rounded-3xl w-[230px] h-[230px] object-cover"
+              class="rounded-3xl sm:w-[230px] w-full h-3/5 sm:h-[230px] object-cover"
             />
           </div>
-          <div class="row-span-1 flex justify-center items-center">
+          <div
+            class="row-span-1 flex justify-center items-start sm:items-center"
+          >
             <NuxtImg
               data-aos="fade-left"
               data-aos-duration="1500"
               src="/images/pie2.jpg"
-              class="rounded-3xl w-[230px] h-[230px] object-cover"
+              class="rounded-3xl sm:w-[230px] w-full h-3/5 sm:h-[230px] object-cover"
             />
           </div>
         </div>
@@ -67,7 +69,7 @@
               data-aos="fade-down"
               data-aos-duration="1500"
               src="/images/pie3.jpg"
-              class="rounded-3xl w-[230px] h-[350px] object-cover"
+              class="rounded-3xl sm:w-[230px] w-full h-[350px] object-cover"
             />
           </div>
         </div>

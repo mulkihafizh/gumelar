@@ -43,8 +43,8 @@
               data-aos="fade-right"
               data-aos-duration="500"
               src="/images/javatea.jpg"
-              width="230"
-              height="230"
+              width="230px"
+              height="230px"
               class="rounded-3xl"
             />
           </div>
@@ -53,8 +53,8 @@
               data-aos="fade-left"
               data-aos-duration="1500"
               src="/images/pie2.jpg"
-              width="230"
-              height="230"
+              width="230px"
+              height="230px"
               class="rounded-3xl"
             />
           </div>
@@ -71,8 +71,8 @@
               data-aos="fade-down"
               data-aos-duration="1500"
               src="/images/pie3.jpg"
-              width="230"
-              height="350"
+              width="230px"
+              height="350px"
               class="rounded-3xl"
             />
           </div>
@@ -87,7 +87,7 @@ export default {
   setup() {
     return {};
   },
-  methods: {
+  methodsy: {
     scrollTo(id) {
       const el = document.getElementById(id);
       el.scrollIntoView({ behavior: "smooth" });

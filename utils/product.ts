@@ -11,7 +11,7 @@ export const products: productRule[] = [
     name: "Pie Susu",
     rating: "4.8",
     image: "/images/pie.png",
-    price: "3000",
+    price: "4000",
     message: "https://wa.me/6283892147931?text=beli%20pie",
   },
   {

@@ -11,7 +11,7 @@
         data-aos-duration="1500"
       >
         <h5 class="md:text-lg text-[#452B1C] font-bold">ABOUT US</h5>
-        <h3 class="md:text-5xl font-bold">What is Gumelar Company?</h3>
+        <h3 class="md:text-5xl text-xl font-bold">What is Gumelar Company?</h3>
         <p class="py-6 text-gray-700">
           Gumelar is a company that focuses on creating innovative products for
           consumers through a website platform. Gumelar offers a variety of

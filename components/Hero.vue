@@ -18,7 +18,7 @@
           Feel the best experience with us
         </p>
       </div>
-      <h1 class="md:text-7xl font-bold">
+      <h1 class="md:text-7xl text-xl font-bold">
         We always provide <span class="text-[#22100C]">the best</span> products
       </h1>
       <p class="text-gray-500 md:text-lg w-3/4">

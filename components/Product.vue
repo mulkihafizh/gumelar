@@ -3,7 +3,7 @@
     <header class="grid lg:grid-cols-5">
       <div class="text font-bold col-span-2">
         <h5 class="md:text-lg text-[#452B1C]">OUR BEST PRODUCT</h5>
-        <h3 class="md:text-3xl">Explore our best product</h3>
+        <h3 class="md:text-3xl text-xl">Explore our best product</h3>
       </div>
       <div
         class="col-span-3 grid grid-cols-2 grid-rows-1 py-5 justify-self-end gap-2"

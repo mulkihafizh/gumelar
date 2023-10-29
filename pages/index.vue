@@ -15,6 +15,12 @@
 export default {};
 </script>
 
+<script setup>
+  useHead({
+    title: "Gumelar Company",
+  });
+</script>
+
 <style scoped>
 .main {
   background-color: #f5f5f5;

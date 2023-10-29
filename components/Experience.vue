@@ -12,7 +12,7 @@
         data-aos-duration="1500"
       >
         <h5 class="md:text-lg text-[#452B1C] font-bold">WHY CHOOSE US?</h5>
-        <h3 class="md:text-5xl font-bold">
+        <h3 class="md:text-5xl text-xl font-bold">
           We helping you experience the best product
         </h3>
         <p class="py-6 text-gray-700">

@@ -1,7 +1,7 @@
 <template>
   <section class="relative" id="experience">
     <NuxtImg
-      class="absolute w-2/5 bottom-0 xl:bottom-[20%]"
+      class="absolute z-[999] w-2/5 bottom-0 xl:bottom-[20%]"
       src="images/graphic.png"
     />
     <div class="grid lg:grid-cols-5 min-h-screen py-24 mx-[10%]">

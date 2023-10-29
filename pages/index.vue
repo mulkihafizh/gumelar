@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="max-w-screen overflow-hidden">
     <Hero class="mx-[10%]" />
     <Service class="mx-[10%]" />
     <Product class="mx-[10%]" />

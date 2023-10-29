@@ -37,7 +37,7 @@
             Trust our customer
           </h3>
           <NuxtImg
-            src="images/tes.jpeg"
+            src="https://cdn-icons-png.flaticon.com/512/1144/1144760.png"
             class="rounded-full w-[150px] h-[150px] object-cover"
           />
           <p class="font-bold text-xl">

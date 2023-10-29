@@ -2,7 +2,7 @@
   <section class="grid lg:grid-cols-5 min-h-screen py-24" id="service">
     <div class="text font-bold col-span-2 self-center">
       <h5 class="md:text-lg text-[#452B1C]">SERVICES</h5>
-      <h3 class="md:text-5xl">Our top value categories for you</h3>
+      <h3 class="md:text-5xl text-xl">Our top value categories for you</h3>
     </div>
     <main class="col-span-3 grid md:grid-cols-2 grid-rows-1 py-5">
       <div

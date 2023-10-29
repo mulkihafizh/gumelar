@@ -9,7 +9,7 @@
         <p>{{ product.name }}</p>
         <p>Rp. {{ product.price }}</p>
       </div>
-      <p class="text-sm text-gray-500">Buy now</p>
+      <a class="text-sm text-gray-500" target="_blank" :href="product.message">Buy now</p>
       <p class="star font-bold justify-self-end">
         {{ product.rating }} <i class="fa-solid fa-star"></i>
       </p>
